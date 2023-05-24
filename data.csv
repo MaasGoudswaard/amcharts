@@ -1,11 +1,4 @@
 Date;Description;Emotion_result;Hours;Title;Type;color;Type_number
-04/04/2023;Working on making the workshop protocol, as to make sure that the working of the protocol has been typed out.Came as far as the setup of the workshop;4;3;Working on the workshop protocol ;Analyzing;#eea638;5
-02/03/2023;We together analyzed the results of the study we did the previous week. Each person had a different task of analyzation (like first reflection, timeline making, and second reflection). We summed up the conclusions in our Miro board.;4;3;Analyzing study data;Analyzing;#eea638;5
-17/02/2023;Categorizing within benchmark  ;3;3;session benchmark;Analyzing;#eea638;5
-28/02/2023;;3;3;discuss where do we apply 3D in design;Analyzing;#eea638;5
-03/03/2023;go hands-on\nwhy do that?\nand How does it go beyond just shaping product?\nWhen do you need this;2;3;session reflection;Analyzing;#eea638;5
-20/05/2023;We had a meeting about choosing a shape. We did some usertests and 1 shape was prased very highly. Shapes needed to be ranked based on a emotion they evoked. Negative emotions were minus points, positive emotions were plus points. Now the shape is defined;4;2;Choosing a shape;Analyzing;#eea638;5
-11/05/2023;Looking into Analytic Induction in order to see if it works for the way we analyzed the workshop.;4;2;Researching Analytic Induction;Background Research;#d8854f;2
 13/02/2023;find inspiration, desk research;4;2;squad topics in persona interest;Background Research;#d8854f;2
 13/02/2023;find inspiration, desk research;3;2;squad topics in personal interest;Background Research;#d8854f;2
 13/02/2023;find inspiration, desk research;5;2;squad topics in personal interest;Background Research;#d8854f;2
@@ -15,44 +8,51 @@ Date;Description;Emotion_result;Hours;Title;Type;color;Type_number
 16/02/2023;make benchmark;3;3;looking for relevant projects;Background Research;#d8854f;2
 16/02/2023;make benchmark;5;3;looking for relevant projects;Background Research;#d8854f;2
 16/02/2023;make benchmark;5;3;looking for relevant projects;Background Research;#d8854f;2
-10/05/2023;We worked on the benchmark cards in miro;3;3;Making the data cards;Brainstorm / Ideate;#de4c4f;3
-14/04/2023;decide the topic AI for Creative Collaborations and explore in facilitating iterative collaboration;3;2;decide the topic;Brainstorm / Ideate;#de4c4f;3
-27/02/2023;envisioning AI as collaborator in different modes;4;2;The worked out AI examples;Brainstorm / Ideate;#de4c4f;3
-09/05/2023;We defined the MVP of our project. What are the minimal requirements and what are more 'nice to haves'. This was a n idea of Nick that we got in our last meeting with him.;4;2;MVP;Concept Definition;#65a96a;4
-14/03/2023;define input & output;5;4;scoping the design concept;Concept Definition;#65a96a;4
-16/05/2023;We defined the requirements of our visualization of the data we collect. We checked out some programs and made a plan of approach to do this, and with what program.;4;3;Visualization definition;Concept Development;#65a96a;4
-17/03/2023;discuss the cocept;4;2;coach session;Concept Development;#65a96a;4
-12/05/2023;Coach meeting with Mathias again, was very nice he was happy with what we did!;5;0.5;Coach meeting;Evaluating;#65a99d;9
-25/04/2023;Pilot study of our workshop, with two participants;4;2;Pilot study;Evaluating;#65a99d;9
+17/02/2023;Categorizing within benchmark  ;3;3;session benchmark;Analyzing;#eea638;5
 17/02/2023;What does collaboration mean?\nWhat role does a team member take;3;1;first coaching;Evaluating;#65a99d;9
-25/04/2023;Reflecting on the pilot study we did and making some changes accordingly. Mostly in the Menti meter.;4;1;Reflecting on pilot study;Evaluating;#65a99d;9
-17/05/2023;We had another extra meeting with Nick. We discussed our deployment of the OOCSI-proto, and discussed some visualizations and future steps for this;5;1;Coach meeting Nick 3;Evaluating;#65a99d;9
-22/05/2023;I have created a business presentation for experts. Looking at core values, market oppertunities, target group and finances;4;2;Business presentation;Evaluating;#65a99d;9
-15/05/2023;We have started to use our benchmark cards to document data for the project;4;1;Documenting data;Organization;#6588a9;1
-13/05/2023;We had a small unorganized meeting on what we would present to mathias;5;1;Meeting;Organization;#6588a9;1
-01/04/2023;preparing specifics for the pilot;4;2;preparing of the pilot;Organization;#6588a9;1
-10/03/2023;PDP ;4;3;coach session;Organization;#6588a9;1
-24/03/2023;;4;4;midterm demo day;Organization;#6588a9;1
-15/05/2023;Together we finished the website building of the cards. Some struggles;5;6;Making website benchmark;Prototype Building;#6765a9;6
-12/05/2023;We started programming the data collector tool in P5js. We started working in Github too.;5;3;Starting the data collector;Prototype Building;#6765a9;6
-09/04/2023;We filled in the MVP to determine what to start collecting data wise;4;1;MVP;Prototype Building;#6765a9;6
-21/04/2023;Making the menti for the pilot study;4;3;Making the menti;Prototype Building;#6765a9;6
-16/04/2023;For the study/workshop we made a presentation to show. It contains the questions of the workshop.;4;1;Presentation making;Prototype Building;#6765a9;6
-07/03/2023;knowledge\ncollaboration\nprototype\nevaluation;4;4;workshop: Short design sessions with observer;Prototype Building;#6765a9;6
-08/03/2023;4 lofi concept ;5;4;luke workshop: prototyping everyday AI;Prototype Building;#6765a9;6
-22/05/2023;Brainstorming about how to build my prototype. And further 3 moddeling pieces and creating a laser cut file;2;2;Prototype brainstorming;Prototype Building;#6765a9;6
-15/05/2023;Sending the signed ERB form to the Ethical Review Board to be approved.;4;0.25;Sending ERB;Testing;#a865a9;7
-12/05/2023;Changing the ERB to fit the new set-up of data collection. Making sure that the document is signed and that the PDF is correct. Sending the PDF to Mathias. ;3;1;Signign ERB;Testing;#a865a9;7
-10/05/2023;Filling out the ERB for the data collection in the final weeks. ;2;2.5;Making the ERB for the datacollection;Testing;#a865a9;7
-10/05/2023;Creating and rewriting the participant informed consent form for the data collection. Proofreading the document to make sure it i correct ;2;1;Participant informed consent form;Testing;#a865a9;7
-12/04/2023;Messaging and talking to people I know in order to get them to participate in the final test. ;5;1;Finding participants;Testing;#a865a9;7
+27/02/2023;envisioning AI as collaborator in different modes;4;2;The worked out AI examples;Brainstorm / Ideate;#de4c4f;3
+28/02/2023;;3;3;discuss where do we apply 3D in design;Analyzing;#eea638;5
+02/03/2023;We together analyzed the results of the study we did the previous week. Each person had a different task of analyzation (like first reflection, timeline making, and second reflection). We summed up the conclusions in our Miro board.;4;3;Analyzing study data;Analyzing;#eea638;5
 02/03/2023;3D prototyping upgrader Lo-fi / hi-fi;5;1;Mouse of clay;Testing;#a865a9;7
 02/03/2023;3D prototyping upgrader\nLo-fi / hi-fi;3;3;Mouse of foamboard;Testing;#a865a9;7
 02/03/2023;3D prototyping upgrader\nLo-fi / hi-fi;4;4;Mouse of foam;Testing;#a865a9;7
 02/03/2023;3D prototyping upgrader\nLo-fi / hi-fi;3;2;Mouse of paper maché;Testing;#a865a9;7
-17/05/2023;Discussing our testing method and how we should move on to the next phase, like report writing and demo day;4;2;Update meeting;Testing;#a865a9;7
-26/04/2023;We did two sessions of workshops that we designed before.;5;4;Workshop;Validating;#a96586;8
-20/04/2023;We discussed with Nick our workshop approach. He looked at our setup and gave some feedback, but overall said it looked okay for what we want to research. Nick highly suggested to do a pilot study.;4;1;Coach meeting Nick 1;Validating;#a96586;8
+03/03/2023;go hands-on\nwhy do that?\nand How does it go beyond just shaping product?\nWhen do you need this;2;3;session reflection;Analyzing;#eea638;5
+07/03/2023;knowledge\ncollaboration\nprototype\nevaluation;4;4;workshop: Short design sessions with observer;Prototype Building;#6765a9;6
+08/03/2023;4 lofi concept ;5;4;luke workshop: prototyping everyday AI;Prototype Building;#6765a9;6
+10/03/2023;PDP ;4;3;coach session;Organization;#6588a9;1
+14/03/2023;define input & output;5;4;scoping the design concept;Concept Definition;#65a96a;4
+17/03/2023;discuss the cocept;4;2;coach session;Concept Development;#65a96a;4
 21/03/2023;;4;4;Visual demonstrator  (our project);Validating;#a96586;8
 21/03/2023;;4;4;Technical demonstrator;Validating;#a96586;8
+24/03/2023;;4;4;midterm demo day;Organization;#6588a9;1
+01/04/2023;preparing specifics for the pilot;4;2;preparing of the pilot;Organization;#6588a9;1
 03/04/2023;We discussed the results of our study with Nick. We talked about our next steps. Nick suggested to make an MVP and that it would be a good idea to start tracking different project groups and collect data. He also said we should document the study very well, because the results are interesting.;5;1;Meeting with Nick 2;;;
+04/04/2023;Working on making the workshop protocol, as to make sure that the working of the protocol has been typed out.Came as far as the setup of the workshop;4;3;Working on the workshop protocol ;Analyzing;#eea638;5
+09/04/2023;We filled in the MVP to determine what to start collecting data wise;4;1;MVP;Prototype Building;#6765a9;6
+12/04/2023;Messaging and talking to people I know in order to get them to participate in the final test. ;5;1;Finding participants;Testing;#a865a9;7
+14/04/2023;decide the topic AI for Creative Collaborations and explore in facilitating iterative collaboration;3;2;decide the topic;Brainstorm / Ideate;#de4c4f;3
+16/04/2023;For the study/workshop we made a presentation to show. It contains the questions of the workshop.;4;1;Presentation making;Prototype Building;#6765a9;6
+20/04/2023;We discussed with Nick our workshop approach. He looked at our setup and gave some feedback, but overall said it looked okay for what we want to research. Nick highly suggested to do a pilot study.;4;1;Coach meeting Nick 1;Validating;#a96586;8
+21/04/2023;Making the menti for the pilot study;4;3;Making the menti;Prototype Building;#6765a9;6
+25/04/2023;Pilot study of our workshop, with two participants;4;2;Pilot study;Evaluating;#65a99d;9
+25/04/2023;Reflecting on the pilot study we did and making some changes accordingly. Mostly in the Menti meter.;4;1;Reflecting on pilot study;Evaluating;#65a99d;9
+26/04/2023;We did two sessions of workshops that we designed before.;5;4;Workshop;Validating;#a96586;8
+09/05/2023;We defined the MVP of our project. What are the minimal requirements and what are more 'nice to haves'. This was a n idea of Nick that we got in our last meeting with him.;4;2;MVP;Concept Definition;#65a96a;4
+10/05/2023;We worked on the benchmark cards in miro;3;3;Making the data cards;Brainstorm / Ideate;#de4c4f;3
+10/05/2023;Filling out the ERB for the data collection in the final weeks. ;2;2.5;Making the ERB for the datacollection;Testing;#a865a9;7
+10/05/2023;Creating and rewriting the participant informed consent form for the data collection. Proofreading the document to make sure it i correct ;2;1;Participant informed consent form;Testing;#a865a9;7
+11/05/2023;Looking into Analytic Induction in order to see if it works for the way we analyzed the workshop.;4;2;Researching Analytic Induction;Background Research;#d8854f;2
+12/05/2023;Coach meeting with Mathias again, was very nice he was happy with what we did!;5;0.5;Coach meeting;Evaluating;#65a99d;9
+12/05/2023;We started programming the data collector tool in P5js. We started working in Github too.;5;3;Starting the data collector;Prototype Building;#6765a9;6
+12/05/2023;Changing the ERB to fit the new set-up of data collection. Making sure that the document is signed and that the PDF is correct. Sending the PDF to Mathias. ;3;1;Signign ERB;Testing;#a865a9;7
+13/05/2023;We had a small unorganized meeting on what we would present to mathias;5;1;Meeting;Organization;#6588a9;1
+15/05/2023;We have started to use our benchmark cards to document data for the project;4;1;Documenting data;Organization;#6588a9;1
+15/05/2023;Together we finished the website building of the cards. Some struggles;5;6;Making website benchmark;Prototype Building;#6765a9;6
+15/05/2023;Sending the signed ERB form to the Ethical Review Board to be approved.;4;0.25;Sending ERB;Testing;#a865a9;7
+16/05/2023;We defined the requirements of our visualization of the data we collect. We checked out some programs and made a plan of approach to do this, and with what program.;4;3;Visualization definition;Concept Development;#65a96a;4
+17/05/2023;We had another extra meeting with Nick. We discussed our deployment of the OOCSI-proto, and discussed some visualizations and future steps for this;5;1;Coach meeting Nick 3;Evaluating;#65a99d;9
+17/05/2023;Discussing our testing method and how we should move on to the next phase, like report writing and demo day;4;2;Update meeting;Testing;#a865a9;7
+20/05/2023;We had a meeting about choosing a shape. We did some usertests and 1 shape was prased very highly. Shapes needed to be ranked based on a emotion they evoked. Negative emotions were minus points, positive emotions were plus points. Now the shape is defined;4;2;Choosing a shape;Analyzing;#eea638;5
+22/05/2023;I have created a business presentation for experts. Looking at core values, market oppertunities, target group and finances;4;2;Business presentation;Evaluating;#65a99d;9
+22/05/2023;Brainstorming about how to build my prototype. And further 3 moddeling pieces and creating a laser cut file;2;2;Prototype brainstorming;Prototype Building;#6765a9;6
