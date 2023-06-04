@@ -3,19 +3,19 @@ Date;Description;emoji10;emoji11;emoji12;emoji13;emoji14;emoji15;emoji16;emoji17
 2023-02-13 01:00:00;find inspiration, desk research;0;0;0;0;0;10;0;0;0;0;0;0;;2.0;0;0;3;0;0;0;VisualAIze;squad topics in personal interest;Background Research;1;2.0;4.0;1;#fc0303
 2023-02-13 02:00:00;find inspiration, desk research;0;6;0;0;0;0;0;0;0;0;0;0;;2.0;0;2;0;0;0;0;VisualAIze;squad topics in personal interest;Background Research;1;2.0;6.0;1;#fc0303
 2023-02-13 03:00:00;find inspiration, desk research;0;0;0;0;0;10;0;0;0;0;0;0;;2.0;1;0;0;0;0;0;VisualAIze;squad topics in persona interest;Background Research;1;2.0;8.0;1;#fc0303
-2023-02-16 00:00:00;make benchmark;0;0;7;0;0;0;0;0;0;0;0;0;;3.0;1;0;0;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;11.0;1;#fc0303
+2023-02-16 00:00:00;make benchmark;0;6;0;0;0;0;0;0;0;0;0;0;;3.0;0;0;3;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;11.0;1;#fc0303
 2023-02-16 01:00:00;make benchmark;0;6;0;0;0;0;0;0;0;0;0;0;;3.0;0;2;0;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;14.0;1;#fc0303
-2023-02-16 02:00:00;make benchmark;0;6;0;0;0;0;11;0;0;0;0;0;;3.0;0;0;3;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;17.0;1;#fc0303
-2023-02-16 03:00:00;make benchmark;0;6;0;0;0;0;0;0;0;0;0;0;;3.0;0;0;3;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;20.0;1;#fc0303
-2023-02-16 04:00:00;make benchmark;0;0;0;0;0;0;0;0;0;0;0;4;;3.0;0;0;0;4;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;23.0;1;#fc0303
+2023-02-16 02:00:00;make benchmark;0;0;7;0;0;0;0;0;0;0;0;0;;3.0;1;0;0;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;17.0;1;#fc0303
+2023-02-16 03:00:00;make benchmark;0;0;0;0;0;0;0;0;0;0;0;4;;3.0;0;0;0;4;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;20.0;1;#fc0303
+2023-02-16 04:00:00;make benchmark;0;6;0;0;0;0;11;0;0;0;0;0;;3.0;0;0;3;0;0;0;VisualAIze;looking for relevant projects;Background Research;1;3.0;23.0;1;#fc0303
 2023-02-17 00:00:00;Categorizing within benchmark  ;0;0;0;0;0;10;0;0;0;0;0;0;;3.0;1;2;3;4;0;0;VisualAIze;session benchmark;Analyzing;4;12.0;35.0;6;#03ecfc
 2023-02-17 01:00:00;What does collaboration mean?\nWhat role does a team member take;0;0;0;0;0;0;11;0;0;0;0;0;;1.0;1;2;3;4;5;0;VisualAIze;first coaching;Evaluating;4;4.0;39.0;10;#fc0345
 2023-02-27 00:00:00;envisioning AI as collaborator in different modes;0;0;0;0;9;0;0;0;0;0;0;0;4.0;2.0;1;2;3;4;0;0;VisualAIze;The worked out AI examples;Brainstorm / Ideate;4;8.0;47.0;5;#03fcca
 2023-02-28 00:00:00;;0;0;0;0;0;0;0;12;0;0;0;0;3.0;3.0;1;2;3;4;0;0;VisualAIze;discuss where do we apply 3D in design;Analyzing;4;12.0;59.0;6;#03ecfc
-2023-03-02 00:00:00;3D prototyping upgrader Lo-fi / hi-fi;0;0;0;8;0;0;0;0;0;0;0;0;5.0;1.0;0;2;0;0;0;0;VisualAIze;Mouse of clay;Testing;1;1.0;60.0;7;#0398fc
-2023-03-02 01:00:00;3D prototyping upgrader\nLo-fi / hi-fi;0;0;0;0;9;0;0;0;0;0;0;0;3.0;3.0;0;0;0;4;0;0;VisualAIze;Mouse of foamboard;Testing;1;3.0;63.0;7;#0398fc
-2023-03-02 02:00:00;3D prototyping upgrader\nLo-fi / hi-fi;5;0;0;0;0;0;0;0;0;0;0;0;4.0;4.0;1;0;0;0;0;0;VisualAIze;Mouse of foam;Testing;1;4.0;67.0;7;#0398fc
-2023-03-02 03:00:00;3D prototyping upgrader\nLo-fi / hi-fi;0;0;0;0;9;0;0;0;0;0;0;0;3.0;2.0;0;0;3;0;0;0;VisualAIze;Mouse of paper machÃ©;Testing;1;2.0;69.0;7;#0398fc
+2023-03-02 00:00:00;3D prototyping upgrader\nLo-fi / hi-fi;0;0;0;0;9;0;0;0;0;0;0;0;3.0;3.0;0;0;0;4;0;0;VisualAIze;Mouse of foamboard;Testing;1;3.0;62.0;7;#0398fc
+2023-03-02 01:00:00;3D prototyping upgrader\nLo-fi / hi-fi;5;0;0;0;0;0;0;0;0;0;0;0;4.0;4.0;1;0;0;0;0;0;VisualAIze;Mouse of foam;Testing;1;4.0;66.0;7;#0398fc
+2023-03-02 02:00:00;3D prototyping upgrader\nLo-fi / hi-fi;0;0;0;0;9;0;0;0;0;0;0;0;3.0;2.0;0;0;3;0;0;0;VisualAIze;Mouse of paper machÃ©;Testing;1;2.0;68.0;7;#0398fc
+2023-03-02 03:00:00;3D prototyping upgrader Lo-fi / hi-fi;0;0;0;8;0;0;0;0;0;0;0;0;5.0;1.0;0;2;0;0;0;0;VisualAIze;Mouse of clay;Testing;1;1.0;69.0;7;#0398fc
 2023-03-03 00:00:00;go hands-on\nwhy do that?\nand How does it go beyond just shaping product?\nWhen do you need this;5;6;0;0;0;0;0;0;0;0;0;0;2.0;3.0;1;2;3;4;5;0;VisualAIze;session reflection;Analyzing;4;12.0;81.0;6;#03ecfc
 2023-03-07 00:00:00;knowledge\ncollaboration\nprototype\nevaluation;0;0;0;0;9;10;0;0;0;0;0;0;4.0;4.0;1;2;3;4;0;0;VisualAIze;workshop: Short design sessions with observer;Prototype Building;4;16.0;97.0;8;#030ffc
 2023-03-08 00:00:00;4 lofi concept ;0;0;0;8;9;0;0;0;0;0;0;0;5.0;4.0;1;2;3;4;0;0;VisualAIze;luke workshop: prototyping everyday AI;Prototype Building;4;16.0;113.0;8;#030ffc
@@ -23,27 +23,27 @@ Date;Description;emoji10;emoji11;emoji12;emoji13;emoji14;emoji15;emoji16;emoji17
 2023-03-14 00:00:00;decide the topic AI for Creative Collaborations and explore in facilitating iterative collaboration;0;0;7;0;0;0;0;0;0;0;0;0;;2.0;1;2;3;4;0;0;VisualAIze;decide the topic;Brainstorm / Ideate;4;8.0;133.0;5;#03fcca
 2023-03-14 01:00:00;define input & output;0;0;0;0;0;0;0;12;0;0;0;0;5.0;4.0;0;0;0;0;0;0;VisualAIze;scoping the design concept;Concept Definition;1;4.0;137.0;3;#e8fc03
 2023-03-17 00:00:00;discuss the cocept;0;6;0;0;0;0;0;0;0;0;0;0;4.0;2.0;1;2;3;4;5;0;VisualAIze;coach session;Concept Development;4;8.0;145.0;4;#77fc03
-2023-03-21 00:00:00;;5;0;0;0;0;0;0;0;0;0;0;0;4.0;4.0;0;0;3;4;0;0;VisualAIze;Technical demonstrator;Validating;2;8.0;153.0;11;#fc03e3
-2023-03-21 01:00:00;;0;0;0;0;0;0;0;12;0;0;0;0;4.0;4.0;1;2;0;0;0;0;VisualAIze;Visual demonstrator  (our project);Validating;2;8.0;161.0;11;#fc03e3
+2023-03-21 00:00:00;;0;0;0;0;0;0;0;12;0;0;0;0;4.0;4.0;1;2;0;0;0;0;VisualAIze;Visual demonstrator  (our project);Validating;2;8.0;153.0;11;#fc03e3
+2023-03-21 01:00:00;;5;0;0;0;0;0;0;0;0;0;0;0;4.0;4.0;0;0;3;4;0;0;VisualAIze;Technical demonstrator;Validating;2;8.0;161.0;11;#fc03e3
 2023-03-24 00:00:00;;0;0;0;0;0;10;0;0;0;0;0;0;4.0;4.0;0;0;0;0;0;0;VisualAIze;midterm demo day;Organization;1;4.0;165.0;9;#ad03fc
 2023-04-01 00:00:00;preparing specifics for the pilot;0;0;0;0;0;0;11;0;0;0;0;0;4.0;2.0;1;0;3;0;0;0;VisualAIze;preparing of the pilot;Organization;2;4.0;169.0;9;#ad03fc
 2023-04-16 00:00:00;For the study/workshop we made a presentation to show. It contains the questions of the workshop.;0;0;0;8;0;0;0;0;0;0;0;0;4.0;1.0;1;2;0;0;0;0;VisualAIze;Presentation making;Prototype Building;2;2.0;171.0;8;#030ffc
 2023-04-20 00:00:00;We discussed with Nick our workshop approach. He looked at our setup and gave some feedback, but overall said it looked okay for what we want to research. Nick highly suggested to do a pilot study.;0;0;0;8;0;0;0;0;0;0;0;0;4.0;1.0;1;2;3;4;5;0;VisualAIze;Coach meeting Nick 1;Validating;4;4.0;175.0;11;#fc03e3
 2023-04-21 00:00:00;Making the menti for the pilot study;0;0;7;8;0;0;0;0;0;0;0;0;4.0;3.0;0;2;0;0;0;0;VisualAIze;Making the menti;Prototype Building;1;3.0;178.0;8;#030ffc
-2023-04-25 00:00:00;Pilot study of our workshop, with two participants;0;0;0;8;0;0;11;0;0;0;0;0;4.0;2.0;1;2;3;4;0;6;VisualAIze;Pilot study;Evaluating;4;8.0;186.0;10;#fc0345
-2023-04-25 01:00:00;Reflecting on the pilot study we did and making some changes accordingly. Mostly in the Menti meter.;0;0;7;0;0;0;0;0;0;0;0;0;4.0;1.0;1;2;3;4;0;0;VisualAIze;Reflecting on pilot study;Evaluating;4;4.0;190.0;10;#fc0345
+2023-04-25 00:00:00;Reflecting on the pilot study we did and making some changes accordingly. Mostly in the Menti meter.;0;0;7;0;0;0;0;0;0;0;0;0;4.0;1.0;1;2;3;4;0;0;VisualAIze;Reflecting on pilot study;Evaluating;4;4.0;182.0;10;#fc0345
+2023-04-25 01:00:00;Pilot study of our workshop, with two participants;0;0;0;8;0;0;11;0;0;0;0;0;4.0;2.0;1;2;3;4;0;6;VisualAIze;Pilot study;Evaluating;4;8.0;190.0;10;#fc0345
 2023-04-26 00:00:00;We did two sessions of workshops that we designed before.;0;0;0;0;0;10;0;12;0;0;0;0;;4.0;1;2;3;4;0;6;VisualAIze;Workshop;Validating;4;16.0;206.0;11;#fc03e3
 2023-05-02 00:00:00;We together analyzed the results of the study we did the previous week. Each person had a different task of analyzation (like first reflection, timeline making, and second reflection). We summed up the conclusions in our Miro board.;0;0;7;0;9;0;0;0;0;0;0;0;;3.0;1;2;3;4;0;0;VisualAIze;Analyzing study data;Analyzing;4;12.0;218.0;6;#03ecfc
 2023-05-04 00:00:00;Working on making the workshop protocol, as to make sure that the working of the protocol has been typed out.Came as far as the setup of the workshop;0;0;0;8;9;0;0;0;0;0;0;0;;3.0;0;0;3;0;0;0;VisualAIze;Working on the workshop protocol ;Analyzing;1;3.0;225.0;6;#03ecfc
-2023-05-09 00:00:00;We defined the MVP of our project. What are the minimal requirements and what are more 'nice to haves'. This was a n idea of Nick that we got in our last meeting with him.;0;0;7;0;0;0;0;0;0;0;0;0;;2.0;1;0;3;4;0;0;VisualAIze;MVP;Concept Definition;3;6.0;231.0;3;#e8fc03
-2023-05-09 01:00:00;We filled in the MVP to determine what to start collecting data wise;0;0;0;8;0;0;11;0;0;0;0;0;;1.0;1;2;3;4;0;0;VisualAIze;MVP;Prototype Building;4;4.0;235.0;8;#030ffc
+2023-05-09 00:00:00;We filled in the MVP to determine what to start collecting data wise;0;0;0;8;0;0;11;0;0;0;0;0;;1.0;1;2;3;4;0;0;VisualAIze;MVP;Prototype Building;4;4.0;229.0;8;#030ffc
+2023-05-09 01:00:00;We defined the MVP of our project. What are the minimal requirements and what are more 'nice to haves'. This was a n idea of Nick that we got in our last meeting with him.;0;0;7;0;0;0;0;0;0;0;0;0;;2.0;1;0;3;4;0;0;VisualAIze;MVP;Concept Definition;3;6.0;235.0;3;#e8fc03
 2023-05-10 00:00:00;Creating and rewriting the participant informed consent form for the data collection. Proofreading the document to make sure it i correct ;0;0;0;8;0;10;11;0;0;0;0;0;;1.0;0;0;3;0;0;0;VisualAIze;Participant informed consent form;Testing;1;1.0;236.0;7;#0398fc
 2023-05-10 01:00:00;We worked on the benchmark cards in miro;0;0;0;0;9;0;0;0;0;0;0;0;;3.0;1;2;3;4;0;0;VisualAIze;Making the data cards;Brainstorm / Ideate;4;12.0;248.0;5;#03fcca
 2023-05-10 02:00:00;Filling out the ERB for the data collection in the final weeks. ;0;0;0;8;0;10;0;0;0;0;0;0;;2.5;0;0;3;0;0;0;VisualAIze;Making the ERB for the datacollection;Testing;1;2.5;250.5;7;#0398fc
 2023-05-11 00:00:00;Looking into Analytic Induction in order to see if it works for the way we analyzed the workshop.;0;0;0;8;0;10;0;0;0;0;0;0;;2.0;0;0;3;0;0;0;VisualAIze;Researching Analytic Induction;Background Research;1;2.0;252.5;1;#fc0303
-2023-05-12 00:00:00;We started programming the data collector tool in P5js. We started working in Github too.;0;0;0;8;9;0;0;0;0;0;0;0;;3.0;1;2;3;4;0;0;VisualAIze;Starting the data collector;Prototype Building;4;12.0;264.5;8;#030ffc
-2023-05-12 01:00:00;Changing the ERB to fit the new set-up of data collection. Making sure that the document is signed and that the PDF is correct. Sending the PDF to Mathias. ;0;0;0;8;9;10;0;0;0;0;0;0;;1.0;0;0;3;0;5;0;VisualAIze;Signign ERB;Testing;1;1.0;265.5;7;#0398fc
-2023-05-12 02:00:00;Messaging and talking to people I know in order to get them to participate in the final test. ;0;0;0;0;0;10;11;0;0;0;0;0;;1.0;0;0;3;0;0;6;VisualAIze;Finding participants;Testing;1;1.0;266.5;7;#0398fc
+2023-05-12 00:00:00;Messaging and talking to people I know in order to get them to participate in the final test. ;0;0;0;0;0;10;11;0;0;0;0;0;;1.0;0;0;3;0;0;6;VisualAIze;Finding participants;Testing;1;1.0;253.5;7;#0398fc
+2023-05-12 01:00:00;We started programming the data collector tool in P5js. We started working in Github too.;0;0;0;8;9;0;0;0;0;0;0;0;;3.0;1;2;3;4;0;0;VisualAIze;Starting the data collector;Prototype Building;4;12.0;265.5;8;#030ffc
+2023-05-12 02:00:00;Changing the ERB to fit the new set-up of data collection. Making sure that the document is signed and that the PDF is correct. Sending the PDF to Mathias. ;0;0;0;8;9;10;0;0;0;0;0;0;;1.0;0;0;3;0;5;0;VisualAIze;Signign ERB;Testing;1;1.0;266.5;7;#0398fc
 2023-05-12 03:00:00;Coach meeting with Mathias again, was very nice he was happy with what we did!;0;0;0;0;0;0;11;12;0;0;0;0;;0.5;1;2;3;4;5;0;VisualAIze;Coach meeting;Evaluating;4;2.0;268.5;10;#fc0345
 2023-05-13 00:00:00;We had a small unorganized meeting on what we would present to mathias;0;6;0;0;0;0;0;0;0;0;0;0;;1.0;1;2;3;4;0;0;VisualAIze;Meeting;Organization;4;4.0;272.5;9;#ad03fc
 2023-05-15 00:00:00;We have started to use our benchmark cards to document data for the project;0;0;0;8;0;10;0;0;0;0;0;0;;1.0;1;2;3;4;0;0;VisualAIze;Documenting data;Organization;4;4.0;276.5;9;#ad03fc
@@ -59,21 +59,21 @@ Date;Description;emoji10;emoji11;emoji12;emoji13;emoji14;emoji15;emoji16;emoji17
 2023-05-24 00:00:00;Working some more, getting better interactivity. But one thing keeps bugging;0;6;0;0;0;10;0;0;1;0;0;0;5.0;4.0;0;0;0;4;0;0;VisualAIze;am charts proto;Prototype Building;1;4.0;332.75;8;#030ffc
 2023-05-24 01:00:00;Talking about how we will present our design at the final demo/ pre demo;0;0;0;0;0;0;11;0;0;0;0;0;5.0;2.0;1;2;3;4;0;0;VisualAIze;meeting pre-demo;Concept Development;4;8.0;340.75;4;#77fc03
 2023-05-25 00:00:00;;5;0;0;0;0;0;0;0;0;0;0;0;2.0;5.0;0;2;0;0;0;0;VisualAIze;explore amchart;Prototype Building;1;5.0;345.75;8;#030ffc
-2023-05-25 01:00:00;Meeting about how we want to present during demoday.;0;0;7;0;0;0;0;0;0;0;0;0;4.0;3.0;1;2;3;4;0;0;VisualAIze;Meeting demoday;Organization;4;12.0;357.75;9;#ad03fc
-2023-05-25 02:00:00;Added the smiley chart and worked with the hide and show functionality;0;0;0;8;0;0;0;0;0;0;0;0;5.0;5.0;0;0;0;4;0;0;VisualAIze;working on interactive chart;Prototype Building;1;5.0;362.75;8;#030ffc
-2023-05-25 03:00:00;Working out one of the posters on the Use cases, and programming some new plots (visualizations) for it.;0;0;0;8;0;0;0;0;0;0;0;0;4.0;2.0;1;0;0;0;0;0;VisualAIze;Use cases scenario;Prototype Building;1;2.0;364.75;8;#030ffc
+2023-05-25 01:00:00;Working out one of the posters on the Use cases, and programming some new plots (visualizations) for it.;0;0;0;8;0;0;0;0;0;0;0;0;4.0;2.0;1;0;0;0;0;0;VisualAIze;Use cases scenario;Prototype Building;1;2.0;347.75;8;#030ffc
+2023-05-25 02:00:00;Meeting about how we want to present during demoday.;0;0;7;0;0;0;0;0;0;0;0;0;4.0;3.0;1;2;3;4;0;0;VisualAIze;Meeting demoday;Organization;4;12.0;359.75;9;#ad03fc
+2023-05-25 03:00:00;Added the smiley chart and worked with the hide and show functionality;0;0;0;8;0;0;0;0;0;0;0;0;5.0;5.0;0;0;0;4;0;0;VisualAIze;working on interactive chart;Prototype Building;1;5.0;364.75;8;#030ffc
 2023-05-26 00:00:00;We got feedback on our preliminary demoday setup. We had also more detailed feedback on our project in general.;0;0;7;0;0;0;11;0;0;0;0;0;4.0;5.0;1;2;3;4;5;0;VisualAIze;Pre-demo day;Validating;4;20.0;384.75;11;#fc03e3
 2023-05-26 01:00:00;Pre-demoday, we presented our preliminary stuffs, and posters! Good feedback and new plans;0;6;7;0;0;0;11;0;0;0;0;0;5.0;4.0;1;2;3;4;5;6;VisualAIze;pre-demoday;Evaluating;4;16.0;400.75;10;#fc0345
-2023-05-30 00:00:00;explore image ai with levity and text ai with chatgpt;0;0;0;8;9;0;0;0;0;0;0;0;4.0;3.0;0;2;0;0;0;0;VisualAIze;explore image AI;Analyzing;1;3.0;403.75;6;#03ecfc
-2023-05-30 01:00:00;Deriving the visualizations for our participants.;0;0;7;0;0;0;0;0;0;0;0;0;3.0;2.0;1;0;0;0;0;0;VisualAIze;Visualizations making;Analyzing;1;2.0;405.75;6;#03ecfc
-2023-05-30 02:00:00;Made clickable bullets to ensure it is not distracting;0;0;0;0;0;10;0;0;0;0;0;0;5.0;3.0;0;0;0;4;0;0;VisualAIze;Clickable bullets!;Prototype Building;1;3.0;408.75;8;#030ffc
-2023-05-30 03:00:00;Devised a pre-processing script from nikki's analisation. Now a continious workflow is ready;0;0;0;0;0;10;0;0;0;0;0;0;5.0;2.0;0;0;0;4;0;0;VisualAIze;Pre-processing;Prototype Building;1;2.0;410.75;8;#030ffc
-2023-05-31 00:00:00;Made the clickable charts work, so you can edit layers and such;0;0;0;0;0;10;0;0;0;0;0;0;5.0;2.5;0;0;0;4;0;0;VisualAIze;Selecting charts;Prototype Building;1;2.5;413.25;8;#030ffc
-2023-05-31 01:00:00;Talk to Kjell our participant about his visualizations so far. See what he sees and get feedback on what's there.;0;0;7;0;0;0;0;0;0;0;0;0;3.0;0.5;1;0;0;0;0;0;VisualAIze;Kjell reflection;Evaluating;1;0.5;413.75;10;#fc0345
-2023-05-31 02:00:00;Reflect on the visualizations made for our project. See what insides we derive from it.;5;0;0;0;9;0;11;0;0;0;0;0;2.0;2.0;1;2;3;4;0;0;VisualAIze;Reflection session;Evaluating;4;8.0;421.75;10;#fc0345
-2023-05-31 03:00:00;Discuss what to put in our report and in what order. Define the outline of the report;0;6;7;0;0;0;11;0;0;0;0;0;4.0;2.0;1;2;3;4;0;0;VisualAIze;Team meeting report;Organization;4;8.0;429.75;9;#ad03fc
-2023-06-01 00:00:00;We had a big session on the purpose of our graphs and what they should look like and entail. ;0;0;0;0;9;0;11;0;0;0;0;0;5.0;2.0;1;2;3;4;0;0;VisualAIze;What will it be;Concept Development;4;8.0;437.75;4;#77fc03
-2023-06-01 01:00:00;Amcharts different thingies;0;0;0;0;0;0;0;0;0;0;0;0;3.0;3.0;0;0;0;4;0;0;VisualAIze;Working out details again;Prototype Building;1;3.0;440.75;8;#030ffc
-2023-06-02 00:00:00;A coach meeting about our progress. Some very good feedback from Mathias;0;0;0;8;0;0;0;0;0;0;0;0;3.0;0.5;1;2;3;4;5;0;VisualAIze;Coach meeting;Evaluating;4;2.0;442.75;10;#fc0345
-2023-06-02 01:00:00;Working on the team selector, really difficult and cannot get it to work sadly;0;0;0;0;0;0;0;0;1;2;0;0;1.0;4.0;0;0;0;4;0;0;VisualAIze;Amcharts....;Prototype Building;1;4.0;446.75;8;#030ffc
-;More amcharts;0;0;0;0;9;0;0;0;0;0;0;0;3.0;3.0;0;0;0;4;0;0;VisualAIze;Wokring on the amcharts;Prototype Building;1;3.0;449.75;8;#030ffc
+2023-05-30 00:00:00;Made clickable bullets to ensure it is not distracting;0;0;0;0;0;10;0;0;0;0;0;0;5.0;3.0;0;0;0;4;0;0;VisualAIze;Clickable bullets!;Prototype Building;1;3.0;403.75;8;#030ffc
+2023-05-30 01:00:00;Devised a pre-processing script from nikki's analisation. Now a continious workflow is ready;0;0;0;0;0;10;0;0;0;0;0;0;5.0;2.0;0;0;0;4;0;0;VisualAIze;Pre-processing;Prototype Building;1;2.0;405.75;8;#030ffc
+2023-05-30 02:00:00;explore image ai with levity and text ai with chatgpt;0;0;0;8;9;0;0;0;0;0;0;0;4.0;3.0;0;2;0;0;0;0;VisualAIze;explore image AI;Analyzing;1;3.0;408.75;6;#03ecfc
+2023-05-30 03:00:00;Deriving the visualizations for our participants.;0;0;7;0;0;0;0;0;0;0;0;0;3.0;2.0;1;0;0;0;0;0;VisualAIze;Visualizations making;Analyzing;1;2.0;410.75;6;#03ecfc
+2023-05-31 00:00:00;More amcharts;0;0;0;0;9;0;0;0;0;0;0;0;3.0;3.0;0;0;0;4;0;0;VisualAIze;Wokring on the amcharts;Prototype Building;1;3.0;413.75;8;#030ffc
+2023-05-31 01:00:00;Talk to Kjell our participant about his visualizations so far. See what he sees and get feedback on what's there.;0;0;7;0;0;0;0;0;0;0;0;0;3.0;0.5;1;0;0;0;0;0;VisualAIze;Kjell reflection;Evaluating;1;0.5;414.25;10;#fc0345
+2023-05-31 02:00:00;Reflect on the visualizations made for our project. See what insides we derive from it.;5;0;0;0;9;0;11;0;0;0;0;0;2.0;2.0;1;2;3;4;0;0;VisualAIze;Reflection session;Evaluating;4;8.0;422.25;10;#fc0345
+2023-05-31 03:00:00;Discuss what to put in our report and in what order. Define the outline of the report;0;6;7;0;0;0;11;0;0;0;0;0;4.0;2.0;1;2;3;4;0;0;VisualAIze;Team meeting report;Organization;4;8.0;430.25;9;#ad03fc
+2023-05-31 04:00:00;Made the clickable charts work, so you can edit layers and such;0;0;0;0;0;10;0;0;0;0;0;0;5.0;2.5;0;0;0;4;0;0;VisualAIze;Selecting charts;Prototype Building;1;2.5;432.75;8;#030ffc
+2023-06-01 00:00:00;We had a big session on the purpose of our graphs and what they should look like and entail. ;0;0;0;0;9;0;11;0;0;0;0;0;5.0;2.0;1;2;3;4;0;0;VisualAIze;What will it be;Concept Development;4;8.0;440.75;4;#77fc03
+2023-06-01 01:00:00;Amcharts different thingies;0;0;0;0;0;0;0;0;0;0;0;0;3.0;3.0;0;0;0;4;0;0;VisualAIze;Working out details again;Prototype Building;1;3.0;443.75;8;#030ffc
+2023-06-02 00:00:00;Working on the team selector, really difficult and cannot get it to work sadly;0;0;0;0;0;0;0;0;1;2;0;0;1.0;4.0;0;0;0;4;0;0;VisualAIze;Amcharts....;Prototype Building;1;4.0;447.75;8;#030ffc
+2023-06-02 01:00:00;A coach meeting about our progress. Some very good feedback from Mathias;0;0;0;8;0;0;0;0;0;0;0;0;3.0;0.5;1;2;3;4;5;0;VisualAIze;Coach meeting;Evaluating;4;2.0;449.75;10;#fc0345
